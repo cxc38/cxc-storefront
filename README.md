@@ -1,3 +1,12 @@
+# EDS Site
+
+## EDS site URLs
+Preview: https://main--refresh--cxc38.aem.page/
+Live: https://main--refresh--cxc38.aem.live/
+
+## AEM Author (Site)
+https://author-p171025-e1844729.adobeaemcloud.com/content/cxc-storefront
+
 # Edge Delivery Services with AEM Authoring Boilerplate for Commerce , Version 0.6
 
 This project boilerplate is for AEM Authoring with Edge Delivery Services (aka Crosswalk) projects that integrate with Adobe Commerce.
