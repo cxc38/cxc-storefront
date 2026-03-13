@@ -1,8 +1,9 @@
 # EDS Site
 
 ## EDS site URLs
-Preview: https://main--refresh--cxc38.aem.page/
-Live: https://main--refresh--cxc38.aem.live/
+Preview: https://main--cxc-storefront--cxc38.aem.page/
+
+Live: https://main--cxc-storefront--cxc38.aem.live/
 
 ## AEM Author (Site)
 https://author-p171025-e1844729.adobeaemcloud.com/content/cxc-storefront
