@@ -1,12 +1,13 @@
 {
   "mappings": [
     "/content/cxc-storefront/:/",
+    "/content/dam/cxc-storefront/:/media/",
     "/content/cxc-storefront/configuration:/.helix/config.json",
     "/content/cxc-storefront/headers:/.helix/headers.json",
     "/content/cxc-storefront/metadata:/metadata.json",
     "/content/cxc-storefront.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
   ],
   "includes": [
-    "/content/cxc-storefront/"
+    "/content/cxc-storefront/", "/content/dam/", "/conf/cxc-storefront/"
   ]
 }
